@@ -96,6 +96,22 @@ img,
   max-width: 100%;
   height: auto;
   vertical-align: middle;
+  // box-shadow: none;
+  &+em {
+    text-align: center;
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: $gray;
+  }
+}
+
+#headPhoto{
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  box-shadow: none;
   &+em {
     text-align: center;
     display: block;
