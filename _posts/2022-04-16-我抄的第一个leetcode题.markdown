@@ -6,10 +6,6 @@ image:  2022041601.jpg
 tags:   刷题
 ---
 
-## 我抄的第一个leetcode题
-
-***
-
 ### 题目
 
 leetcode上面第一题[两数之和](https://leetcode-cn.com/problems/two-sum/)可谓是点击简单排序第一题,英语单词的abandoned，暴力枚举就可以过，但是谁不想写个跑的飞快的代码捏，就粗略看了一下那些几毫秒就过的大佬的代码，就有了这篇博客
