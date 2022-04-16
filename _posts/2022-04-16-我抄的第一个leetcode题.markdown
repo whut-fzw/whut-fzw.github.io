@@ -1,10 +1,10 @@
-```
+---
 layout: post
 title:   我抄的第一个leetcode题
 date:   2022-04-16 16:45:35 +0300
 image:  2022041601.jpg
 tags:   刷题
-```
+---
 
 ## 我抄的第一个leetcode题
 
